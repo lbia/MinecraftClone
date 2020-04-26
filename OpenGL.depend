@@ -1,0 +1,1293 @@
+# depslib dependency file v1.0
+1572385063 source:c:\users\loren\documents\lorenzo\progetti programmazione\codeblocks\c\opengl\src\main.c
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"renderer.h"
+	"vertexBuffer.h"
+	"indexBuffer.h"
+	"vertexArray.h"
+	"shader.h"
+
+1572385036 
+
+1555377564 c:\users\loren\documents\lorenzo\progetti programmazione\codeblocks\c\opengl\dependencies\glfw\include\glfw\glfw3.h
+	<stddef.h>
+	<stdint.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl32.h>
+	<GLES2/gl2ext.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<GL/glcorearb.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+	<vulkan/vulkan.h>
+
+1555373964 lkan.h>
+
+1501533982 c:\users\loren\documents\lorenzo\progetti programmazione\codeblocks\c\opengl\dependencies\glew\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1555373964 c:\users\loren\documents\lorenzo\progetti programmazione\codeblocks\dependencies\glfw\include\glfw\glfw3.h
+	<stddef.h>
+	<stdint.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl32.h>
+	<GLES2/gl2ext.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<GL/glcorearb.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+	<vulkan/vulkan.h>
+
+1572290261 c:\users\loren\documents\lorenzo\progetti programmazione\codeblocks\c\opengl\src\renderer.h
+	<GL/glew.h>
+	<stdbool.h>
+
+1572290261 >
+
+1572301618 c:\users\loren\documents\lorenzo\progetti programmazione\codeblocks\c\opengl\src\vertexbuffer.h
+
+1572298676 c:\users\loren\documents\lorenzo\progetti programmazione\codeblocks\c\opengl\src\indexbuffer.h
+
+1572290323 source:c:\users\loren\documents\lorenzo\progetti programmazione\codeblocks\c\opengl\src\renderer.c
+	"renderer.h"
+	<stdio.h>
+
+1572299191 source:c:\users\loren\documents\lorenzo\progetti programmazione\codeblocks\c\opengl\src\indexbuffer.c
+	"indexBuffer.h"
+	"renderer.h"
+
+1572305749 h"
+
+1572299211 source:c:\users\loren\documents\lorenzo\progetti programmazione\codeblocks\c\opengl\src\vertexbuffer.c
+	"vertexBuffer.h"
+	"renderer.h"
+
+1572305588 c:\users\loren\documents\lorenzo\progetti programmazione\codeblocks\c\opengl\src\vertexarray.h
+	"vertexBuffer.h"
+
+1572305588 fer.h"
+
+1572305749 source:c:\users\loren\documents\lorenzo\progetti programmazione\codeblocks\c\opengl\src\vertexarray.c
+	"vertexArray.h"
+	"renderer.h"
+
+1572385338 c:\users\loren\documents\lorenzo\progetti programmazione\codeblocks\c\opengl\src\shader.h
+
+1572385036 source:c:\users\loren\documents\lorenzo\progetti programmazione\codeblocks\c\opengl\src\shader.c
+	"shader.h"
+	"renderer.h"
+	<stdio.h>
+
+1573732723 source:/home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/indexBuffer.c
+	"indexBuffer.h"
+	"renderer.h"
+
+1573732625 /home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/indexBuffer.h
+	"stdbool.h"
+
+1575218884 /home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/renderer.h
+	<stdbool.h>
+	"program.h"
+	"gameState.h"
+	"texture.h"
+
+1575327662 source:/home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/main.c
+	"GL/glew.h"
+	"GLFW/glfw3.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"program.h"
+	"global.h"
+	"window.h"
+	"renderer.h"
+	"camera.h"
+	"gameState.h"
+	"cube.h"
+	"cglm/cglm.h"
+
+1555377564 /home/lollo/Documents/Lollo/CodeBlocks/Dependencies/GLFW/include/GLFW/glfw3.h
+	<stddef.h>
+	<stdint.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl32.h>
+	<GLES2/gl2ext.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<GL/glcorearb.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+	<vulkan/vulkan.h>
+
+1573675122 /home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/vertexBuffer.h
+	"stdbool.h"
+
+1572309190 /home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/vertexArray.h
+	"vertexBuffer.h"
+
+1574954999 /home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/shader.h
+	"cglm/cglm.h"
+
+1575311533 source:/home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/renderer.c
+	"renderer.h"
+	<stdio.h>
+	<stdbool.h>
+	<math.h>
+	"global.h"
+	"cube.h"
+	"mob.h"
+
+1574372203 source:/home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/shader.c
+	"shader.h"
+	"renderer.h"
+	"GL/glew.h"
+	<stdio.h>
+
+1573515891 source:/home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/vertexArray.c
+	"vertexArray.h"
+	"renderer.h"
+
+1574076394 source:/home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/vertexBuffer.c
+	"vertexBuffer.h"
+	"renderer.h"
+
+1572986497 source:/home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/stb_image.c
+	"stb_image.h"
+
+1572986403 /home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/stb_image.h
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1574954999 /home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/texture.h
+
+1574771782 source:/home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/texture.c
+	"texture.h"
+	"stb_image.h"
+	"renderer.h"
+
+1572986497 source:/home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/dep/stb_image.c
+	"stb_image.h"
+
+1572986403 /home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/dep/stb_image.h
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1571690783 /home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/dep/cglm/cglm.h
+	"common.h"
+	"vec3.h"
+	"vec4.h"
+	"mat4.h"
+	"mat3.h"
+	"affine.h"
+	"cam.h"
+	"frustum.h"
+	"quat.h"
+	"euler.h"
+	"plane.h"
+	"box.h"
+	"color.h"
+	"util.h"
+	"io.h"
+	"project.h"
+	"sphere.h"
+	"ease.h"
+	"curve.h"
+	"bezier.h"
+
+1571690783 /home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/dep/cglm/common.h
+	<stdint.h>
+	<stddef.h>
+	<math.h>
+	<float.h>
+	<stdbool.h>
+	"types.h"
+	"simd/intrin.h"
+
+1571690783 /home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/dep/cglm/types.h
+
+1571690783 /home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/dep/cglm/simd/intrin.h
+	<xmmintrin.h>
+	<emmintrin.h>
+	<x86intrin.h>
+	<smmintrin.h>
+	<nmmintrin.h>
+	<immintrin.h>
+	<arm_neon.h>
+	"x86.h"
+	"arm.h"
+
+1571690783 /home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/dep/cglm/simd/x86.h
+	"intrin.h"
+
+1571690783 /home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/dep/cglm/simd/arm.h
+	"intrin.h"
+
+1571690783 /home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/dep/cglm/vec3.h
+	"common.h"
+	"vec4.h"
+	"vec3-ext.h"
+	"util.h"
+
+1571690783 /home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/dep/cglm/vec4.h
+	"common.h"
+	"vec4-ext.h"
+	"util.h"
+
+1571690783 /home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/dep/cglm/vec4-ext.h
+	"common.h"
+	"vec3-ext.h"
+
+1571690783 /home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/dep/cglm/vec3-ext.h
+	"common.h"
+	"util.h"
+
+1571690783 /home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/dep/cglm/util.h
+	"common.h"
+
+1571690783 /home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/dep/cglm/mat4.h
+	"common.h"
+	"vec4.h"
+	"vec3.h"
+	"simd/sse2/mat4.h"
+	"simd/avx/mat4.h"
+	"simd/neon/mat4.h"
+	<assert.h>
+
+1571690783 /home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/dep/cglm/simd/sse2/mat4.h
+	"../../common.h"
+	"../intrin.h"
+
+1571690783 /home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/dep/cglm/simd/avx/mat4.h
+	"../../common.h"
+	"../intrin.h"
+	<immintrin.h>
+
+1571690783 /home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/dep/cglm/simd/neon/mat4.h
+	"../../common.h"
+	"../intrin.h"
+
+1571690783 /home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/dep/cglm/mat3.h
+	"common.h"
+	"vec3.h"
+	"simd/sse2/mat3.h"
+
+1571690783 /home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/dep/cglm/simd/sse2/mat3.h
+	"../../common.h"
+	"../intrin.h"
+
+1571690783 /home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/dep/cglm/affine.h
+	"common.h"
+	"util.h"
+	"vec3.h"
+	"vec4.h"
+	"mat4.h"
+	"affine-mat.h"
+
+1571690783 /home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/dep/cglm/affine-mat.h
+	"common.h"
+	"mat4.h"
+	"mat3.h"
+	"simd/sse2/affine.h"
+	"simd/avx/affine.h"
+
+1571690783 /home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/dep/cglm/simd/sse2/affine.h
+	"../../common.h"
+	"../intrin.h"
+
+1571690783 /home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/dep/cglm/simd/avx/affine.h
+	"../../common.h"
+	"../intrin.h"
+	<immintrin.h>
+
+1571690783 /home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/dep/cglm/cam.h
+	"common.h"
+	"plane.h"
+
+1571690783 /home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/dep/cglm/plane.h
+	"common.h"
+	"vec4.h"
+
+1571690783 /home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/dep/cglm/frustum.h
+	"common.h"
+	"plane.h"
+	"vec3.h"
+	"vec4.h"
+	"mat4.h"
+
+1571690783 /home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/dep/cglm/quat.h
+	"common.h"
+	"vec3.h"
+	"vec4.h"
+	"mat4.h"
+	"mat3.h"
+	"affine-mat.h"
+	"simd/sse2/quat.h"
+
+1571690783 /home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/dep/cglm/simd/sse2/quat.h
+	"../../common.h"
+	"../intrin.h"
+
+1571690783 /home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/dep/cglm/euler.h
+	"common.h"
+
+1571690783 /home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/dep/cglm/box.h
+	"common.h"
+	"vec3.h"
+	"vec4.h"
+	"util.h"
+
+1571690783 /home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/dep/cglm/color.h
+	"common.h"
+	"vec3.h"
+
+1571690783 /home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/dep/cglm/io.h
+	"common.h"
+	<stdio.h>
+	<stdlib.h>
+
+1571690783 /home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/dep/cglm/project.h
+	"common.h"
+	"vec3.h"
+	"vec4.h"
+	"mat4.h"
+
+1571690783 /home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/dep/cglm/sphere.h
+	"common.h"
+	"mat4.h"
+
+1571690783 /home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/dep/cglm/ease.h
+	"common.h"
+
+1571690783 /home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/dep/cglm/curve.h
+	"common.h"
+	"vec4.h"
+	"mat4.h"
+
+1571690783 /home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/dep/cglm/bezier.h
+	"common.h"
+
+1575026398 source:/home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/camera.c
+	"camera.h"
+	<math.h>
+
+1575113987 /home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/camera.h
+	"cglm/cglm.h"
+	"stdbool.h"
+
+1575327467 source:/home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/gameState.c
+	"gameState.h"
+	"math.h"
+
+1575327662 /home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/gameState.h
+	<pthread.h>
+	"global.h"
+	"world.h"
+	"perlin.h"
+
+1573297833 /home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/globalConst.h
+
+1575283242 /home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/global.h
+	"utils.h"
+
+1574955922 source:/home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/global.c
+	"global.h"
+
+1575220737 /home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/cube.h
+	"cglm/cglm.h"
+	"gameState.h"
+
+1575327439 source:/home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/cube.c
+	"cube.h"
+	"math.h"
+
+1573301563 /home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/window.h
+	"GL/glew.h"
+	"GLFW/glfw3.h"
+	"renderer.h"
+	"gameState.h"
+
+1575286758 source:/home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/window.c
+	"window.h"
+
+1575327565 /home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/world.h
+	"stdlib.h"
+	"global.h"
+	"camera.h"
+	"mob.h"
+
+1575327467 source:/home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/world.c
+	"world.h"
+	"math.h"
+	<pthread.h>
+
+1574606665 source:/home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/noise/perlin.c
+	"perlin.h"
+	<math.h>
+
+1575109534 /home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/noise/perlin.h
+
+1575283178 /home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/mob.h
+	"program.h"
+	"texture.h"
+
+1575283912 source:/home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/mob.c
+	"mob.h"
+	"cglm/cglm.h"
+	"global.h"
+	"world.h"
+	"cube.h"
+	"math.h"
+
+1572309190 /home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/engine/vertexArray.h
+	"vertexBuffer.h"
+
+1573675122 /home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/engine/vertexBuffer.h
+	"stdbool.h"
+
+1573732625 /home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/engine/indexBuffer.h
+	"stdbool.h"
+
+1574955965 source:/home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/engine/indexBuffer.c
+	"indexBuffer.h"
+	"utils.h"
+
+1575235120 source:/home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/engine/shader.c
+	"shader.h"
+	"utils.h"
+	<stdio.h>
+
+1575235139 /home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/engine/shader.h
+	"cglm/cglm.h"
+
+1575237826 source:/home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/engine/texture.c
+	"texture.h"
+	"stb_image.h"
+	"utils.h"
+
+1574960569 /home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/engine/texture.h
+
+1574956008 source:/home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/engine/vertexArray.c
+	"vertexArray.h"
+	"utils.h"
+
+1574956014 source:/home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/engine/vertexBuffer.c
+	"vertexBuffer.h"
+	"utils.h"
+
+1575223043 /home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/engine/utils.h
+	"stdbool.h"
+	"GL/glew.h"
+
+1574955418 source:/home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/engine/program.c
+
+1574956428 source:/home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/engine/utils.c
+	"utils.h"
+
+1574955576 /home/lollo/Documents/Lollo/CodeBlocks/C/OpenGL/src/engine/program.h
+	"vertexBuffer.h"
+	"vertexArray.h"
+	"indexBuffer.h"
+	"shader.h"
+
+1575026398 source:/home/lollo/Documents/Minecraft/src/camera.c
+	"camera.h"
+	<math.h>
+
+1575113987 /home/lollo/Documents/Minecraft/src/camera.h
+	"cglm/cglm.h"
+	"stdbool.h"
+
+1571690783 /home/lollo/Documents/Minecraft/src/dep/cglm/cglm.h
+	"common.h"
+	"vec3.h"
+	"vec4.h"
+	"mat4.h"
+	"mat3.h"
+	"affine.h"
+	"cam.h"
+	"frustum.h"
+	"quat.h"
+	"euler.h"
+	"plane.h"
+	"box.h"
+	"color.h"
+	"util.h"
+	"io.h"
+	"project.h"
+	"sphere.h"
+	"ease.h"
+	"curve.h"
+	"bezier.h"
+
+1571690783 /home/lollo/Documents/Minecraft/src/dep/cglm/common.h
+	<stdint.h>
+	<stddef.h>
+	<math.h>
+	<float.h>
+	<stdbool.h>
+	"types.h"
+	"simd/intrin.h"
+
+1571690783 /home/lollo/Documents/Minecraft/src/dep/cglm/types.h
+
+1571690783 /home/lollo/Documents/Minecraft/src/dep/cglm/simd/intrin.h
+	<xmmintrin.h>
+	<emmintrin.h>
+	<x86intrin.h>
+	<smmintrin.h>
+	<nmmintrin.h>
+	<immintrin.h>
+	<arm_neon.h>
+	"x86.h"
+	"arm.h"
+
+1571690783 /home/lollo/Documents/Minecraft/src/dep/cglm/simd/x86.h
+	"intrin.h"
+
+1571690783 /home/lollo/Documents/Minecraft/src/dep/cglm/simd/arm.h
+	"intrin.h"
+
+1571690783 /home/lollo/Documents/Minecraft/src/dep/cglm/vec3.h
+	"common.h"
+	"vec4.h"
+	"vec3-ext.h"
+	"util.h"
+
+1571690783 /home/lollo/Documents/Minecraft/src/dep/cglm/vec4.h
+	"common.h"
+	"vec4-ext.h"
+	"util.h"
+
+1571690783 /home/lollo/Documents/Minecraft/src/dep/cglm/vec4-ext.h
+	"common.h"
+	"vec3-ext.h"
+
+1571690783 /home/lollo/Documents/Minecraft/src/dep/cglm/vec3-ext.h
+	"common.h"
+	"util.h"
+
+1571690783 /home/lollo/Documents/Minecraft/src/dep/cglm/util.h
+	"common.h"
+
+1571690783 /home/lollo/Documents/Minecraft/src/dep/cglm/mat4.h
+	"common.h"
+	"vec4.h"
+	"vec3.h"
+	"simd/sse2/mat4.h"
+	"simd/avx/mat4.h"
+	"simd/neon/mat4.h"
+	<assert.h>
+
+1571690783 /home/lollo/Documents/Minecraft/src/dep/cglm/simd/sse2/mat4.h
+	"../../common.h"
+	"../intrin.h"
+
+1571690783 /home/lollo/Documents/Minecraft/src/dep/cglm/simd/avx/mat4.h
+	"../../common.h"
+	"../intrin.h"
+	<immintrin.h>
+
+1571690783 /home/lollo/Documents/Minecraft/src/dep/cglm/simd/neon/mat4.h
+	"../../common.h"
+	"../intrin.h"
+
+1571690783 /home/lollo/Documents/Minecraft/src/dep/cglm/mat3.h
+	"common.h"
+	"vec3.h"
+	"simd/sse2/mat3.h"
+
+1571690783 /home/lollo/Documents/Minecraft/src/dep/cglm/simd/sse2/mat3.h
+	"../../common.h"
+	"../intrin.h"
+
+1571690783 /home/lollo/Documents/Minecraft/src/dep/cglm/affine.h
+	"common.h"
+	"util.h"
+	"vec3.h"
+	"vec4.h"
+	"mat4.h"
+	"affine-mat.h"
+
+1571690783 /home/lollo/Documents/Minecraft/src/dep/cglm/affine-mat.h
+	"common.h"
+	"mat4.h"
+	"mat3.h"
+	"simd/sse2/affine.h"
+	"simd/avx/affine.h"
+
+1571690783 /home/lollo/Documents/Minecraft/src/dep/cglm/simd/sse2/affine.h
+	"../../common.h"
+	"../intrin.h"
+
+1571690783 /home/lollo/Documents/Minecraft/src/dep/cglm/simd/avx/affine.h
+	"../../common.h"
+	"../intrin.h"
+	<immintrin.h>
+
+1571690783 /home/lollo/Documents/Minecraft/src/dep/cglm/cam.h
+	"common.h"
+	"plane.h"
+
+1571690783 /home/lollo/Documents/Minecraft/src/dep/cglm/plane.h
+	"common.h"
+	"vec4.h"
+
+1571690783 /home/lollo/Documents/Minecraft/src/dep/cglm/frustum.h
+	"common.h"
+	"plane.h"
+	"vec3.h"
+	"vec4.h"
+	"mat4.h"
+
+1571690783 /home/lollo/Documents/Minecraft/src/dep/cglm/quat.h
+	"common.h"
+	"vec3.h"
+	"vec4.h"
+	"mat4.h"
+	"mat3.h"
+	"affine-mat.h"
+	"simd/sse2/quat.h"
+
+1571690783 /home/lollo/Documents/Minecraft/src/dep/cglm/simd/sse2/quat.h
+	"../../common.h"
+	"../intrin.h"
+
+1571690783 /home/lollo/Documents/Minecraft/src/dep/cglm/euler.h
+	"common.h"
+
+1571690783 /home/lollo/Documents/Minecraft/src/dep/cglm/box.h
+	"common.h"
+	"vec3.h"
+	"vec4.h"
+	"util.h"
+
+1571690783 /home/lollo/Documents/Minecraft/src/dep/cglm/color.h
+	"common.h"
+	"vec3.h"
+
+1571690783 /home/lollo/Documents/Minecraft/src/dep/cglm/io.h
+	"common.h"
+	<stdio.h>
+	<stdlib.h>
+
+1571690783 /home/lollo/Documents/Minecraft/src/dep/cglm/project.h
+	"common.h"
+	"vec3.h"
+	"vec4.h"
+	"mat4.h"
+
+1571690783 /home/lollo/Documents/Minecraft/src/dep/cglm/sphere.h
+	"common.h"
+	"mat4.h"
+
+1571690783 /home/lollo/Documents/Minecraft/src/dep/cglm/ease.h
+	"common.h"
+
+1571690783 /home/lollo/Documents/Minecraft/src/dep/cglm/curve.h
+	"common.h"
+	"vec4.h"
+	"mat4.h"
+
+1571690783 /home/lollo/Documents/Minecraft/src/dep/cglm/bezier.h
+	"common.h"
+
+1575366890 source:/home/lollo/Documents/Minecraft/src/cube.c
+	"cube.h"
+	"math.h"
+
+1575220737 /home/lollo/Documents/Minecraft/src/cube.h
+	"cglm/cglm.h"
+	"gameState.h"
+
+1575366308 /home/lollo/Documents/Minecraft/src/gameState.h
+	<pthread.h>
+	"global.h"
+	"world.h"
+	"perlin.h"
+
+1575283242 /home/lollo/Documents/Minecraft/src/global.h
+	"utils.h"
+
+1575223043 /home/lollo/Documents/Minecraft/src/engine/utils.h
+	"stdbool.h"
+	"GL/glew.h"
+
+1575366811 /home/lollo/Documents/Minecraft/src/world.h
+	"stdlib.h"
+	"global.h"
+	"camera.h"
+	"mob.h"
+
+1575283178 /home/lollo/Documents/Minecraft/src/mob.h
+	"program.h"
+	"texture.h"
+
+1574955576 /home/lollo/Documents/Minecraft/src/engine/program.h
+	"vertexBuffer.h"
+	"vertexArray.h"
+	"indexBuffer.h"
+	"shader.h"
+
+1573675122 /home/lollo/Documents/Minecraft/src/engine/vertexBuffer.h
+	"stdbool.h"
+
+1572309190 /home/lollo/Documents/Minecraft/src/engine/vertexArray.h
+	"vertexBuffer.h"
+
+1573732625 /home/lollo/Documents/Minecraft/src/engine/indexBuffer.h
+	"stdbool.h"
+
+1575235139 /home/lollo/Documents/Minecraft/src/engine/shader.h
+	"cglm/cglm.h"
+
+1574954999 /home/lollo/Documents/Minecraft/src/texture.h
+
+1575109534 /home/lollo/Documents/Minecraft/src/noise/perlin.h
+
+1572986497 source:/home/lollo/Documents/Minecraft/src/dep/stb_image.c
+	"stb_image.h"
+
+1572986403 /home/lollo/Documents/Minecraft/src/dep/stb_image.h
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1574955965 source:/home/lollo/Documents/Minecraft/src/engine/indexBuffer.c
+	"indexBuffer.h"
+	"utils.h"
+
+1574955418 source:/home/lollo/Documents/Minecraft/src/engine/program.c
+
+1575235120 source:/home/lollo/Documents/Minecraft/src/engine/shader.c
+	"shader.h"
+	"utils.h"
+	<stdio.h>
+
+1575237826 source:/home/lollo/Documents/Minecraft/src/engine/texture.c
+	"texture.h"
+	"stb_image.h"
+	"utils.h"
+
+1574960569 /home/lollo/Documents/Minecraft/src/engine/texture.h
+
+1574956428 source:/home/lollo/Documents/Minecraft/src/engine/utils.c
+	"utils.h"
+
+1574956008 source:/home/lollo/Documents/Minecraft/src/engine/vertexArray.c
+	"vertexArray.h"
+	"utils.h"
+
+1574956014 source:/home/lollo/Documents/Minecraft/src/engine/vertexBuffer.c
+	"vertexBuffer.h"
+	"utils.h"
+
+1575624651 source:/home/lollo/Documents/Minecraft/src/gameState.c
+	"gameState.h"
+	"math.h"
+
+1574955922 source:/home/lollo/Documents/Minecraft/src/global.c
+	"global.h"
+
+1575327662 source:/home/lollo/Documents/Minecraft/src/main.c
+	"GL/glew.h"
+	"GLFW/glfw3.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"program.h"
+	"global.h"
+	"window.h"
+	"renderer.h"
+	"camera.h"
+	"gameState.h"
+	"cube.h"
+	"cglm/cglm.h"
+
+1573301563 /home/lollo/Documents/Minecraft/src/window.h
+	"GL/glew.h"
+	"GLFW/glfw3.h"
+	"renderer.h"
+	"gameState.h"
+
+1575218884 /home/lollo/Documents/Minecraft/src/renderer.h
+	<stdbool.h>
+	"program.h"
+	"gameState.h"
+	"texture.h"
+
+1575283912 source:/home/lollo/Documents/Minecraft/src/mob.c
+	"mob.h"
+	"cglm/cglm.h"
+	"global.h"
+	"world.h"
+	"cube.h"
+	"math.h"
+
+1574606665 source:/home/lollo/Documents/Minecraft/src/noise/perlin.c
+	"perlin.h"
+	<math.h>
+
+1575311533 source:/home/lollo/Documents/Minecraft/src/renderer.c
+	"renderer.h"
+	<stdio.h>
+	<stdbool.h>
+	<math.h>
+	"global.h"
+	"cube.h"
+	"mob.h"
+
+1575286758 source:/home/lollo/Documents/Minecraft/src/window.c
+	"window.h"
+
+1575366786 source:/home/lollo/Documents/Minecraft/src/world.c
+	"world.h"
+	"math.h"
+	<pthread.h>
+
+1575026398 source:c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\camera.c
+	"camera.h"
+	<math.h>
+
+1575113986 c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\camera.h
+	"cglm/cglm.h"
+	"stdbool.h"
+
+1571690782 c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\dep\cglm\cglm.h
+	"common.h"
+	"vec3.h"
+	"vec4.h"
+	"mat4.h"
+	"mat3.h"
+	"affine.h"
+	"cam.h"
+	"frustum.h"
+	"quat.h"
+	"euler.h"
+	"plane.h"
+	"box.h"
+	"color.h"
+	"util.h"
+	"io.h"
+	"project.h"
+	"sphere.h"
+	"ease.h"
+	"curve.h"
+	"bezier.h"
+
+1571690782 c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\dep\cglm\common.h
+	<stdint.h>
+	<stddef.h>
+	<math.h>
+	<float.h>
+	<stdbool.h>
+	"types.h"
+	"simd/intrin.h"
+
+1571690782 c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\dep\cglm\types.h
+
+1571690782 c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\dep\cglm\simd\intrin.h
+	<xmmintrin.h>
+	<emmintrin.h>
+	<x86intrin.h>
+	<smmintrin.h>
+	<nmmintrin.h>
+	<immintrin.h>
+	<arm_neon.h>
+	"x86.h"
+	"arm.h"
+
+1571690782 c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\dep\cglm\simd\x86.h
+	"intrin.h"
+
+1571690782 c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\dep\cglm\simd\arm.h
+	"intrin.h"
+
+1571690782 c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\dep\cglm\vec3.h
+	"common.h"
+	"vec4.h"
+	"vec3-ext.h"
+	"util.h"
+
+1571690782 c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\dep\cglm\vec4.h
+	"common.h"
+	"vec4-ext.h"
+	"util.h"
+
+1571690782 c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\dep\cglm\vec4-ext.h
+	"common.h"
+	"vec3-ext.h"
+
+1571690782 c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\dep\cglm\vec3-ext.h
+	"common.h"
+	"util.h"
+
+1571690782 c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\dep\cglm\util.h
+	"common.h"
+
+1571690782 c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\dep\cglm\mat4.h
+	"common.h"
+	"vec4.h"
+	"vec3.h"
+	"simd/sse2/mat4.h"
+	"simd/avx/mat4.h"
+	"simd/neon/mat4.h"
+	<assert.h>
+
+1571690782 c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\dep\cglm\simd\sse2\mat4.h
+	"../../common.h"
+	"../intrin.h"
+
+1571690782 c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\dep\cglm\simd\avx\mat4.h
+	"../../common.h"
+	"../intrin.h"
+	<immintrin.h>
+
+1571690782 c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\dep\cglm\simd\neon\mat4.h
+	"../../common.h"
+	"../intrin.h"
+
+1571690782 c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\dep\cglm\mat3.h
+	"common.h"
+	"vec3.h"
+	"simd/sse2/mat3.h"
+
+1571690782 c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\dep\cglm\simd\sse2\mat3.h
+	"../../common.h"
+	"../intrin.h"
+
+1571690782 c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\dep\cglm\affine.h
+	"common.h"
+	"util.h"
+	"vec3.h"
+	"vec4.h"
+	"mat4.h"
+	"affine-mat.h"
+
+1571690782 c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\dep\cglm\affine-mat.h
+	"common.h"
+	"mat4.h"
+	"mat3.h"
+	"simd/sse2/affine.h"
+	"simd/avx/affine.h"
+
+1571690782 c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\dep\cglm\simd\sse2\affine.h
+	"../../common.h"
+	"../intrin.h"
+
+1571690782 c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\dep\cglm\simd\avx\affine.h
+	"../../common.h"
+	"../intrin.h"
+	<immintrin.h>
+
+1571690782 c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\dep\cglm\cam.h
+	"common.h"
+	"plane.h"
+
+1571690782 c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\dep\cglm\plane.h
+	"common.h"
+	"vec4.h"
+
+1571690782 c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\dep\cglm\frustum.h
+	"common.h"
+	"plane.h"
+	"vec3.h"
+	"vec4.h"
+	"mat4.h"
+
+1571690782 c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\dep\cglm\quat.h
+	"common.h"
+	"vec3.h"
+	"vec4.h"
+	"mat4.h"
+	"mat3.h"
+	"affine-mat.h"
+	"simd/sse2/quat.h"
+
+1571690782 c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\dep\cglm\simd\sse2\quat.h
+	"../../common.h"
+	"../intrin.h"
+
+1571690782 c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\dep\cglm\euler.h
+	"common.h"
+
+1571690782 c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\dep\cglm\box.h
+	"common.h"
+	"vec3.h"
+	"vec4.h"
+	"util.h"
+
+1571690782 c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\dep\cglm\color.h
+	"common.h"
+	"vec3.h"
+
+1571690782 c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\dep\cglm\io.h
+	"common.h"
+	<stdio.h>
+	<stdlib.h>
+
+1571690782 c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\dep\cglm\project.h
+	"common.h"
+	"vec3.h"
+	"vec4.h"
+	"mat4.h"
+
+1571690782 c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\dep\cglm\sphere.h
+	"common.h"
+	"mat4.h"
+
+1571690782 c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\dep\cglm\ease.h
+	"common.h"
+
+1571690782 c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\dep\cglm\curve.h
+	"common.h"
+	"vec4.h"
+	"mat4.h"
+
+1571690782 c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\dep\cglm\bezier.h
+	"common.h"
+
+1575366890 source:c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\cube.c
+	"cube.h"
+	"math.h"
+
+1575220736 c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\cube.h
+	"cglm/cglm.h"
+	"gameState.h"
+
+1575366308 c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\gamestate.h
+	<pthread.h>
+	"global.h"
+	"world.h"
+	"perlin.h"
+
+1575283242 c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\global.h
+	"utils.h"
+
+1575223042 c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\engine\utils.h
+	"stdbool.h"
+	"GL/glew.h"
+
+1581422948 c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\world.h
+	"stdlib.h"
+	"global.h"
+	"camera.h"
+	"mob.h"
+
+1575283178 c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\mob.h
+	"program.h"
+	"texture.h"
+
+1574955576 c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\engine\program.h
+	"vertexBuffer.h"
+	"vertexArray.h"
+	"indexBuffer.h"
+	"shader.h"
+
+1573675122 c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\engine\vertexbuffer.h
+	"stdbool.h"
+
+1572309190 c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\engine\vertexarray.h
+	"vertexBuffer.h"
+
+1573732624 c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\engine\indexbuffer.h
+	"stdbool.h"
+
+1575235138 c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\engine\shader.h
+	"cglm/cglm.h"
+
+1574954998 c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\texture.h
+
+1575109534 c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\noise\perlin.h
+
+1572986496 source:c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\dep\stb_image.c
+	"stb_image.h"
+
+1572986402 c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\dep\stb_image.h
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1574955964 source:c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\engine\indexbuffer.c
+	"indexBuffer.h"
+	"utils.h"
+
+1574955418 source:c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\engine\program.c
+
+1575235120 source:c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\engine\shader.c
+	"shader.h"
+	"utils.h"
+	<stdio.h>
+
+1575237826 source:c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\engine\texture.c
+	"texture.h"
+	"stb_image.h"
+	"utils.h"
+
+1574960568 c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\engine\texture.h
+
+1574956428 source:c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\engine\utils.c
+	"utils.h"
+
+1574956008 source:c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\engine\vertexarray.c
+	"vertexArray.h"
+	"utils.h"
+
+1574956014 source:c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\engine\vertexbuffer.c
+	"vertexBuffer.h"
+	"utils.h"
+
+1574955922 source:c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\global.c
+	"global.h"
+
+1581420620 source:c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\main.c
+	"GL/glew.h"
+	"GLFW/glfw3.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"program.h"
+	"global.h"
+	"window.h"
+	"renderer.h"
+	"camera.h"
+	"gameState.h"
+	"cube.h"
+	"cglm/cglm.h"
+
+1573301562 c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\window.h
+	"GL/glew.h"
+	"GLFW/glfw3.h"
+	"renderer.h"
+	"gameState.h"
+
+1575218884 c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\renderer.h
+	<stdbool.h>
+	"program.h"
+	"gameState.h"
+	"texture.h"
+
+1575283912 source:c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\mob.c
+	"mob.h"
+	"cglm/cglm.h"
+	"global.h"
+	"world.h"
+	"cube.h"
+	"math.h"
+
+1574606664 source:c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\noise\perlin.c
+	"perlin.h"
+	<math.h>
+
+1575311532 source:c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\renderer.c
+	"renderer.h"
+	<stdio.h>
+	<stdbool.h>
+	<math.h>
+	"global.h"
+	"cube.h"
+	"mob.h"
+
+1575286758 source:c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\window.c
+	"window.h"
+
+1575366786 source:c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\world.c
+	"world.h"
+	"math.h"
+	<pthread.h>
+
+1577316088 source:c:\users\loren\documents\programming\codeblocks\c\games\minecraft\src\gamestate.c
+	"gameState.h"
+	"math.h"
+
