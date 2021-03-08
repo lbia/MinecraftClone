@@ -1,2 +1,2 @@
 # MinecraftClone
-Minecraft clone created with just C
+Minecraft clone created with C and OpenGL
