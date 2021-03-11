@@ -46,7 +46,15 @@ GLFWwindow *initializeWindow(const char *name, GameState *state, bool cursoreFis
     //GLCall(glClearColor(255 / coverter, 255 / coverter, 255 / coverter, 1.0f));
 
     //per versione OpenGL
-    //printf("%s\n", glGetString(GL_VERSION));
+    printf("VERSION: %s\n", glGetString(GL_VERSION));
+
+    // Returns the vendor
+    const char* vendor = glGetString(GL_VENDOR);
+    // Returns a hint to the model
+    const char* model = glGetString(GL_RENDERER);
+
+    printf("VENDOR: %s\n", vendor);
+    printf("MODEL: %s\n", model);
 
     return window;
 }
