@@ -2,3 +2,5 @@
 Minecraft clone created with C and OpenGL
 
 Copy res folder in the same file as the executable
+
+Requires GLFW and Glew installed
