@@ -1,6 +1,7 @@
 build/
+release/
 .vscode
-src/CMakeLists.txt.user
+*.user
 OpenGL.cbp
 OpenGL.depend
 OpenGL.layout
