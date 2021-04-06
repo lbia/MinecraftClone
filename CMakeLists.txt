@@ -19,3 +19,10 @@ add_subdirectory(${CMAKE_CURRENT_SOURCE_DIR}/glew)
 
 target_link_libraries(${PROJECT_NAME} PUBLIC m Threads::Threads libglew_static glfw)
 
+# copy resources files to build directory
+add_custom_command(
+        TARGET ${PROJECT_NAME} PRE_BUILD
+        COMMAND ${CMAKE_COMMAND} -E copy_directory
+                ${CMAKE_CURRENT_SOURCE_DIR}/res
+                ${CMAKE_CURRENT_BINARY_DIR}/res)
+
