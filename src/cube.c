@@ -2,6 +2,8 @@
 
 #include "math.h"
 
+void plantTree(GameState *state, int pos[3], unsigned char tex);
+
 void addCubeToWorld(World *world, int cube[3], unsigned char texture){
     int x = cube[0];
     int y = cube[1];
