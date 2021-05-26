@@ -8,7 +8,7 @@ uniform sampler2D u_MouseBianco;
 
 void main(){
     vec4 texColor;
-    texColor = texture2D(u_MouseBianco, v_TexCoord);
+    texColor = texture(u_MouseBianco, v_TexCoord);
     float threshold = 0.99f;
     if (texColor.r > threshold && texColor.g > threshold && texColor.b > threshold){
         texColor.a = 1.0f;

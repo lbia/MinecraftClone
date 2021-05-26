@@ -16,11 +16,11 @@ uniform vec3 u_LightColor;
 void main(){
     vec4 texColor;
     if (v_TexIndex < 0.1f){
-        texColor = texture2D(u_BlockTop, v_TexCoord);
+        texColor = texture(u_BlockTop, v_TexCoord);
     } else if (v_TexIndex < 1.1f){
-        texColor = texture2D(u_BlockSide, v_TexCoord);
+        texColor = texture(u_BlockSide, v_TexCoord);
     } else if (v_TexIndex < 2.1f){
-        texColor = texture2D(u_BlockBottom, v_TexCoord);
+        texColor = texture(u_BlockBottom, v_TexCoord);
     }
     float dot1 = ((dot(v_SurfaceNormal, v_ToLightVector) + 1) / 2.0) * 1.2;
     float brightness = max(dot1, 0.4);

@@ -122,6 +122,11 @@ int main(){
     float delta = 0.0f;
     float previousFrame = glfwGetTime();
 
+    unsigned int contaFrame = 0;
+    unsigned int printFrame = 10;
+
+    printf("\n");
+
     while (!glfwWindowShouldClose(window)){
         processInput(window);
 
@@ -131,7 +136,11 @@ int main(){
         time += delta;
         frameRender++;
         if (time >= 1.0f){
-            printf("%d\n", frameRender);
+            contaFrame++;
+            if (contaFrame >= printFrame){
+                printf("FPS: %d\n", frameRender);
+                contaFrame = 0;
+            }
             //printf("%d\n", frameUpdate);
             time = 0;
             frameRender = 0;
