@@ -2,6 +2,20 @@
 
 #### Minecraft clone created with C and OpenGL
 
+## Build
+
+<html>
+  <head>
+    <code>git clone https://github.com/Cubik22/MinecraftClone.git</code><br>
+    <code>cd MinecraftClone</code><br>
+    <code>mkdir build</code><br>
+    <code>cmake -S . -B build</code><br>
+    <code>cd build</code><br>
+    <code>make</code><br>
+    <code>./Minecraft</code><br>
+  </head>
+</html>
+
 ## Instructions
 
 Wait for the program to load the world
