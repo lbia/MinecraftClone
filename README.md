@@ -9,6 +9,8 @@ git clone https://github.com/Cubik22/MinecraftClone.git
 cd MinecraftClone
 mkdir build
 cmake -S . -B build
+# or if you are using a languge server
+cmake -DCMAKE_EXPORT_COMPILE_COMMANDS=1 -S . -B build
 cd build
 make
 ./Minecraft
