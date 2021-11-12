@@ -40,4 +40,4 @@ When in flying mode press 'space' to go up, 'alt' to go down
 
 To close the window press 'esc'
 
-![world](https://raw.githubusercontent.com/ibia/MinecraftClone/master/screenshot/world.png)
+![world](screenshot/world.png)
