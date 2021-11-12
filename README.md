@@ -39,3 +39,5 @@ Press 'c' to enter flying mode, 'v' to return to normal mode
 When in flying mode press 'space' to go up, 'alt' to go down
 
 To close the window press 'esc'
+
+![world](https://raw.githubusercontent.com/ibia/MinecraftClone/screenshot/world.png)
