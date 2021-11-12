@@ -5,7 +5,7 @@
 ## Build
 
 ```
-git clone https://github.com/Cubik22/MinecraftClone.git
+git clone https://github.com/lbia/MinecraftClone.git
 cd MinecraftClone
 mkdir build
 cmake -S . -B build

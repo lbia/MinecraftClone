@@ -1,5 +1,6 @@
 build/
 release/
+.cache
 .vscode
 *.user
 OpenGL.cbp
